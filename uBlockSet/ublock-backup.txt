@@ -1,11 +1,13 @@
 {
-  "timeStamp": 1717002243244,
-  "version": "1.57.3rc1",
+  "timeStamp": 1722086871765,
+  "version": "1.58.0",
   "userSettings": {
-    "externalLists": "https://easylist-downloads.adblockplus.org/bitblock.txt\nhttps://easylist-downloads.adblockplus.org/cntblock.txt\nhttps://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
+    "externalLists": "https://easylist-downloads.adblockplus.org/bitblock.txt\nhttps://easylist-downloads.adblockplus.org/cntblock.txt\nhttps://easylist-downloads.adblockplus.org/ruadlist.txt\nhttps://easylist.to/easylist/fanboy-annoyance.txt\nhttps://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
     "importedLists": [
       "https://easylist-downloads.adblockplus.org/bitblock.txt",
       "https://easylist-downloads.adblockplus.org/cntblock.txt",
+      "https://easylist-downloads.adblockplus.org/ruadlist.txt",
+      "https://easylist.to/easylist/fanboy-annoyance.txt",
       "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"
     ]
   },
@@ -42,7 +44,9 @@
     "RUS-0",
     "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
     "https://easylist-downloads.adblockplus.org/bitblock.txt",
-    "https://easylist-downloads.adblockplus.org/cntblock.txt"
+    "https://easylist-downloads.adblockplus.org/cntblock.txt",
+    "https://easylist-downloads.adblockplus.org/ruadlist.txt",
+    "https://easylist.to/easylist/fanboy-annoyance.txt"
   ],
   "hiddenSettings": {},
   "whitelist": [
